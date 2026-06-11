@@ -1197,9 +1197,9 @@ function About() {
           </div>
 
           <a
-            href="https://www.google.com/maps/search/?api=1&query=Third+Rock+Realty+SCO+1+Sector+79+SAS+Nagar"
+            href="https://www.google.com/maps/search/?api=1&query=Shree+Bala+Ji+Builders+SCO+22%2C+Sector+125%2C+Sunny+Enclave%2C+Kharar-Mohali%2C+Punjab+140301"
             target="_blank" rel="noopener noreferrer"
-            onClick={(e) => { e.preventDefault(); window.open("https://www.google.com/maps/search/?api=1&query=Third+Rock+Realty+SCO+1+Sector+79+SAS+Nagar", "_blank", "noopener,noreferrer"); }}
+            onClick={(e) => { e.preventDefault(); window.open("https://www.google.com/maps/search/?api=1&query=Shree+Bala+Ji+Builders+SCO+22%2C+Sector+125%2C+Sunny+Enclave%2C+Kharar-Mohali%2C+Punjab+140301", "_blank", "noopener,noreferrer"); }}
             className="gs-wrap"
             style={{ position: "relative", display: "block", aspectRatio: "16/10", borderRadius: 6, overflow: "hidden", background: "#1e1e1e" }}
           >
